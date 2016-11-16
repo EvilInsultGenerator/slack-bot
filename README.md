@@ -47,4 +47,4 @@ We love to get in touch with you. Feel welcome to email your questions and feedb
 
 ### Screenshots
 
-_TBD_
+![Evil Insult Generator Slack Bot](https://cloud.githubusercontent.com/assets/23509199/20364325/f1e4313a-ac42-11e6-8310-0d66ed8603bc.PNG)
