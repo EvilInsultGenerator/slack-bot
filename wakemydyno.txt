@@ -1,0 +1,1 @@
+wakemydyno.com provides a very simple mechanism preventing your dyno from falling asleep: they will ping your site periodically!
