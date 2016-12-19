@@ -48,3 +48,8 @@ We love to get in touch with you. Feel welcome to email your questions and feedb
 ### Screenshots
 
 ![Evil Insult Generator Slack Bot](https://cloud.githubusercontent.com/assets/23509199/20364325/f1e4313a-ac42-11e6-8310-0d66ed8603bc.PNG)
+
+### Credits
+
+I am deeply grateful that [JetBrains](https://www.jetbrains.com/) sponsored two licenses of [PyCharm](https://www.jetbrains.com/pycharm/)
+[![PyCharm](https://cloud.githubusercontent.com/assets/24652575/21313697/9ee48a0a-c5f3-11e6-9f73-4765f784e75e.png)](https://www.jetbrains.com/pycharm/)
