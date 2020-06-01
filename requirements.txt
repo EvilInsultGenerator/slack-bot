@@ -5,7 +5,7 @@ command-not-found==0.3
 configobj==5.0.6
 cryptography==2.4.2
 idna==2.0
-Jinja2==2.8
+Jinja2==2.10.1
 jsonpatch==1.10
 jsonpointer==1.9
 language-selector==0.1
@@ -29,6 +29,6 @@ slacker==0.9.29
 ssh-import-id==5.5
 ufw==0.35
 unattended-upgrades==0.1
-urllib3==1.24.2
+urllib3==1.24.3
 websocket-client==0.37.0
 websockets==2.3
