@@ -5,7 +5,7 @@ command-not-found==0.3
 configobj==5.0.6
 cryptography==2.4.2
 idna==2.0
-Jinja2==2.10.1
+Jinja2==2.11.3
 jsonpatch==1.10
 jsonpointer==1.9
 language-selector==0.1
