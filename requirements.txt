@@ -20,7 +20,7 @@ pyserial==3.0.1
 python-apt==1.1.0b1
 python-debian==0.1.27
 python-systemd==231
-PyYAML==4.3
+PyYAML==5.4
 requests==2.21.0
 rollbar==0.13.8
 six==1.10.0
