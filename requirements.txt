@@ -15,7 +15,7 @@ prettytable==0.7.2
 pyasn1==0.1.9
 pycurl==7.43.0
 pygobject==3.20.0
-PyJWT==1.7.1
+PyJWT==2.4.0
 pyserial==3.0.1
 python-apt==1.1.0b1
 python-debian==0.1.27
