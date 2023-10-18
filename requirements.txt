@@ -29,6 +29,6 @@ slacker==0.9.29
 ssh-import-id==5.5
 ufw==0.35
 unattended-upgrades==0.1
-urllib3==1.26.5
+urllib3==1.26.18
 websocket-client==0.37.0
 websockets==10.0
