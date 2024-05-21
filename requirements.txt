@@ -21,7 +21,7 @@ python-apt==1.1.0b1
 python-debian==0.1.27
 python-systemd==231
 PyYAML==5.4
-requests==2.31.0
+requests==2.32.0
 rollbar==0.13.8
 six==1.10.0
 slackbot==0.4.1
