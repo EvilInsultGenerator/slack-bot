@@ -13,7 +13,7 @@ language-selector==0.1
 MarkupSafe==0.23
 oauthlib==1.0.3
 prettytable==0.7.2
-pyasn1==0.1.9
+pyasn1==0.6.3
 pycurl==7.43.0
 pygobject==3.20.0
 PyJWT==2.12.0
